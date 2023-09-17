@@ -39,7 +39,7 @@
 
       const probabilityElement = document.getElementById('probability');
       // 결과값을 퍼센트로 변환하고, Math.round() 함수로 반올림하여 정수값으로 표시합니다.
-      probabilityElement.innerHTML = `<strong>주변에 귀신이 존재할 확률은 ${(probability)}%</strong>`;
+      probabilityElement.innerHTML = `주변에 귀신이 존재할 확률은 10% !!!`;
    }
 
    function goToNextPage() {
