@@ -8,7 +8,7 @@
       var queryParams = `?province=${encodeURIComponent(province)}&city=${encodeURIComponent(city)}&district=${encodeURIComponent(district)}`;
  
       // 백엔드 API 엔드포인트 URL입니다.
-      var url = "http://3.22.101.158:8080//ghost" + queryParams;
+      var url = "http://3.17.182.23:8080/ghost" + queryParams;
       console.log(url)
        // fetch 함수로 서버에 GET 요청을 보냅니다.
        fetch(url)
