@@ -1,23 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 
 <body>
+    <img id="top-right-image" src="image/ghost-r.png" alt="Image description">
     <div class="container">
-        <h1>당신의 주위에는 커신이 있다</h1>
+        <div class="not_center">
+            <h1 id="title_1">당신의</h1>
+            <h1 id="title_2">주위에는</h1>
+            <h1 id="title_3">커신이 있다</h1>
+        </div>
 
-        <img src="image/radar-love-search.gif" alt="radargif" width="300px" height="300px"> 
-        <img id="cornerImage" src="image/hipgho.png" alt="Corner Image">
-
-        
         <div class="search-box">
-            <input type="text" id="provinceInput" placeholder="도/도시 입력 !!!"> 
-            <input type="text" id="cityInput" placeholder="시/군/구 입력 !!!"> 
-            <input type="text" id= "districtInput" placeholder= "동/읍/면 입력 !!!">
-            <button type= "submit" onclick= "sendLocation()" onmouseover= "changeCursor()">귀신 탐색..</button> 
-          </div>
-          <script src= "js/script.js"></script>
+            <button type= "start" onclick= "gotoInPutpage()" onmouseover= "changeCursor()">시작하기..</button> 
+        </div>
+
+    </div> <!-- container 끝 -->
+
+<script src= "js/script.js"></script>
+
 </body>
 </html>

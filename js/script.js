@@ -8,7 +8,7 @@
       var queryParams = `?province=${encodeURIComponent(province)}&city=${encodeURIComponent(city)}&district=${encodeURIComponent(district)}`;
  
       // 백엔드 API 엔드포인트 URL입니다.
-      var url = "http://18.118.169.150:8080/ghost" + queryParams;
+      var url = "http://3.129.14.134:8080/ghost" + queryParams;
       console.log(url)
        // fetch 함수로 서버에 GET 요청을 보냅니다.
        fetch(url)
@@ -19,7 +19,7 @@
           return response.json();
       })
          .then(data => handleResponse(data)) // 파싱된 데이터를 handleResponse 함수에 전달하여 처리합니다.
-         .then(() => goToNextPage())
+         .then(() => gotoOutPutpage())
          .catch(error => console.error("요청 실패:", error)); // 에러 발생 시 콘솔에 에러 메시지를 출력합니다.
          var probability = responseData.probability;
          // localStorage에 확률 값을 저장합니다.
@@ -47,8 +47,13 @@
        // 결과값을 퍼센트로 변환하고, Math.round() 함수로 반올림하여 정수값으로 표시합니다.
        probabilityElement.innerHTML = `<strong>주변에 귀신이 존재할 확률은 ${(probability)}%</strong>`;
     }
+
+    function gotoInPutpage() {
+      window.location.href = "input.html";
+  }
+
  
-    function goToNextPage() {
+    function gotoOutPutpage() {
       window.location.href = "output.html";
   }
   
