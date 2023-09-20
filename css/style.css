@@ -39,13 +39,13 @@ button[type="submit"] {
 }
 
 button[type="start"] {
-   height: 70px; /* 높이 증가 */
+   height: 60px; /* 높이 증가 */
    padding: 10px 20px; 
    border-radius: 20px; 
    border: none; 
    border-width: 2px;
    position: absolute;
-   top: 80%;
+   top: 85%;
    left: 90%; /* 가운데 정렬을 위해 left 값을 50%로 설정합니다 */
    transform: translateX(-50%); /* 왼쪽으로 버튼의 절반 크기만큼 이동시켜 정확한 가운데 정렬을 수행합니다 */
 }
@@ -53,7 +53,7 @@ button[type="start"] {
 
 h1{
    font-family: 'KyoboHandwriting2020A' ;
-   font-size: 50px;
+   font-size: 70px;
 }
 
 #search {
@@ -182,4 +182,9 @@ button:hover {
    width: 350px;
    height: 350px;
    border-radius: 50%; /* 이미지를 원형으로 만듭니다 */
+}
+
+#probability {
+   font-size : 50px;
+   font-family: 'KyoboHandwriting2020A';
 }
