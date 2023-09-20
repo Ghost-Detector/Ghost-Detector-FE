@@ -42,8 +42,10 @@ button[type="submit"] {
    border-width: 2px;
    position: absolute;
    top: 670px;
-   left: 665px;
+   left: 50%; /* 가운데 정렬을 위해 left 값을 50%로 설정합니다 */
+   transform: translateX(-50%); /* 왼쪽으로 버튼의 절반 크기만큼 이동시켜 정확한 가운데 정렬을 수행합니다 */
 }
+
 
 
 h1{
@@ -96,3 +98,13 @@ button:hover {
  .search-box {
    margin-top: 20px;
  }
+
+ #cornerImage {
+   position: fixed; /* 고정 위치 */
+   bottom: 0; /* 아래쪽에서부터 0px 떨어진 위치 */
+   left: 0; /* 오른쪽에서부터 0px 떨어진 위치 */
+
+   width: 20%;
+   height: auto;
+ }
+ 
