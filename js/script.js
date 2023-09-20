@@ -8,7 +8,7 @@
       var queryParams = `?province=${encodeURIComponent(province)}&city=${encodeURIComponent(city)}&district=${encodeURIComponent(district)}`;
  
       // 백엔드 API 엔드포인트 URL입니다.
-      var url = "http://3.138.188.154:8080/ghost" + queryParams;
+      var url = "http://18.118.145.122:8080/ghost" + queryParams;
       console.log(url)
        // fetch 함수로 서버에 GET 요청을 보냅니다.
        fetch(url)
@@ -47,7 +47,7 @@
       if (probability == '해당 위치에 대한 데이터가 없습니다.') {
           probabilityElement.innerHTML = `아앗 ,,, 아무래도 귀신이 없나 보군요 ,,`;
       } else {
-          probabilityElement.innerHTML = `<strong>주변에 귀신이 존재할 확률은 ${probability}%</strong>`;
+          probabilityElement.innerHTML = `<strong>주변에 귀신이 존재할 확률은 ${probability}%</strong> !`;
       }
    }   
 
