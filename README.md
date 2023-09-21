@@ -8,11 +8,12 @@
 
 ### index.html
 
-![image](https://github.com/Ghost-Detector/Ghost-Detector-FE/assets/112530022/ec759c94-0078-416b-aa9d-380084b50249)
+![image](https://github.com/Ghost-Detector/Ghost-Detector-FE/assets/112530022/2a14fbfe-a200-40ed-b0d7-b2e2d3bb335a)
+
 
 ### input.html
 
-![image](https://github.com/Ghost-Detector/Ghost-Detector-FE/assets/112530022/54e1cc9e-bb9a-4493-bf6e-5cc793b1792f)
+![image](https://github.com/Ghost-Detector/Ghost-Detector-FE/assets/112530022/1b3476e2-90de-428f-bc55-f56fb2ee65c2)
 
 ### output.html
 
@@ -47,9 +48,10 @@
 첫 개발 당시 화면
 
 
-![첫화면](https://github.com/Ghost-Detector/Ghost-Detector-FE/assets/117438347/4c4ed6d0-b3da-427e-9c7d-bee39b47d175)
+![image](https://github.com/Ghost-Detector/Ghost-Detector-FE/assets/112530022/341b1f7e-ab5f-484f-82ae-9165472bc546)
 
-![결과창](https://github.com/Ghost-Detector/Ghost-Detector-FE/assets/117438347/cdc2779c-4ef0-4ca5-824d-2fb49e968a4d)
+
+![image](https://github.com/Ghost-Detector/Ghost-Detector-FE/assets/112530022/6e5791cd-d588-44de-ab9c-02720153de3f)
 
 개선 후 화면
 
