@@ -2,7 +2,7 @@
 
 ## 개요
 
-사용자가 원하는 위치정보를 바탕으로 귀신이 존재할 가능성을 EC2서버에서 가져오고 그 결과를 보여준다.
+사용자가 원하는 위치정보를 바탕으로 귀신이 존재할 가능성을 EC2서버에서 가져오고 그 결과를 FE에서 보여준다.
 
 ## 디자인
 
@@ -44,12 +44,13 @@
 
 ## 개발 후 개선점
 
+첫 개발 당시 화면
+
+
 ![첫화면](https://github.com/Ghost-Detector/Ghost-Detector-FE/assets/117438347/4c4ed6d0-b3da-427e-9c7d-bee39b47d175)
 
 ![결과창](https://github.com/Ghost-Detector/Ghost-Detector-FE/assets/117438347/cdc2779c-4ef0-4ca5-824d-2fb49e968a4d)
 
-
-
-
+개선 후 화면
 
 
