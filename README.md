@@ -22,7 +22,10 @@
 
 
 ## 개발 후 개선점
-https://github.com/Ghost-Detector/Ghost-Detector-FE/issues/1#issue-1906191742
+![결과창](https://github.com/Ghost-Detector/Ghost-Detector-FE/assets/117438347/cdc2779c-4ef0-4ca5-824d-2fb49e968a4d)
+
+
+![첫화면](https://github.com/Ghost-Detector/Ghost-Detector-FE/assets/117438347/4c4ed6d0-b3da-427e-9c7d-bee39b47d175)
 
 
 
