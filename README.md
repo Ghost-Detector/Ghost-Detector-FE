@@ -17,15 +17,18 @@
 
 ### output.html
 
-![image](https://github.com/Ghost-Detector/Ghost-Detector-FE/assets/117438347/55b5963b-ba76-4301-95b5-e708d83cc4a3)
 
-![image](https://github.com/Ghost-Detector/Ghost-Detector-FE/assets/117438347/6cf6583f-b207-4908-9631-31202a97268d)
+![image](https://github.com/Ghost-Detector/Ghost-Detector-FE/assets/117438347/4c136f93-72af-427a-9075-bb1543dcb566)
 
-![image](https://github.com/Ghost-Detector/Ghost-Detector-FE/assets/117438347/84128dc2-73da-4ef0-91e9-98eabc0106f5)
+![image](https://github.com/Ghost-Detector/Ghost-Detector-FE/assets/117438347/67ac0ac9-c709-40c0-b153-a4e799b75b22)
 
-![image](https://github.com/Ghost-Detector/Ghost-Detector-FE/assets/117438347/4b629ee9-54ed-473d-bf46-d248552f5163)
+![image](https://github.com/Ghost-Detector/Ghost-Detector-FE/assets/117438347/b4f594b9-74a3-457b-aa05-e7cd6077a323)
 
-![image](https://github.com/Ghost-Detector/Ghost-Detector-FE/assets/117438347/eed704a4-88df-4c7b-bb9c-e86fe30d3dc1)
+![image](https://github.com/Ghost-Detector/Ghost-Detector-FE/assets/117438347/6283d4e3-7908-48c2-884e-84076e95c56c)
+
+![image](https://github.com/Ghost-Detector/Ghost-Detector-FE/assets/117438347/7ec3548d-e941-4ef4-bf84-49ea9645871b)
+
+
 
 
 
