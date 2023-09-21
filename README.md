@@ -22,9 +22,7 @@
 
 
 ## 개발 후 개선점
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2d5f5cc6-2950-4f0e-9b44-596f1715b304/5c3bae1c-764b-4757-b828-dc1f7f32bc47/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2d5f5cc6-2950-4f0e-9b44-596f1715b304/da16d418-70da-4560-8dac-c064412bc538/Untitled.png)
+https://github.com/Ghost-Detector/Ghost-Detector-FE/issues/1#issue-1906191742
 
 
 
